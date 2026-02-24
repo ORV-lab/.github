@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/b3976406-5119-4991-8514-80d6a81525cc" width="170" alt="ORV-lab"/>
+<img src="https://github.com/user-attachments/assets/b3976406-5119-4991-8514-80d6a81525cc" width="300" alt="ORV-lab"/>
 
 # ORV-lab
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,python,ts,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,sql" />
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,figma" />
 <img src="https://skillicons.dev/icons?i=fastapi,django" />
 <img src="https://skillicons.dev/icons?i=postgres,docker,nginx,git,linux" />
