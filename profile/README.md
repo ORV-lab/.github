@@ -1,107 +1,111 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/b3976406-5119-4991-8514-80d6a81525cc" width="100" style="border-radius:50%" alt="ORV-lab"/>
+<img src="https://github.com/user-attachments/assets/b3976406-5119-4991-8514-80d6a81525cc" width="170" alt="ORV-lab"/>
 
 # ORV-lab
 
-### Open Research & Ventures Lab
+### Лаборатория совместной разработки и инженерного роста
 
-*Два разработчика — одна лаборатория. Создаем Full-Stack решения и развиваем инженерную культуру.*
-
-[![Members](https://img.shields.io/badge/Members-2-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ORV-lab)
-[![Location](https://img.shields.io/badge/Almaty%2C%20KZ-🇰🇿-red?style=for-the-badge)](https://github.com/ORV-lab)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/ORV-lab)
+**[ Практика ] · [ Командная работа ] · [ Реальные продукты ]**
 
 </div>
 
 ---
 
-## 👥 О нас
+<div align="justify">
 
-Мы студенты второго курса технического университета (Алматы, Казахстан), объединившие усилия для создания качественного программного обеспечения. Наша цель — трансформировать академические знания в работающие продукты, совершенствуя навыки командной разработки (Git flow, Code Review) и архитектурного проектирования.
+## О нас
 
-Специализируемся на разных стеках (Go/React и Python/Data Science), что позволяет нам закрывать полный цикл разработки: от сложного бэкенда и анализа данных до современного фронтенда и мобильных приложений.
+**ORV-lab** — это инженерная лаборатория двух студентов второго курса технического университета (Алматы, Казахстан). Мы создали это пространство, чтобы выйти за рамки учебной программы: строить настоящие продукты, вырабатывать инженерную культуру и накапливать опыт командной разработки ещё до выхода на рынок.
 
-| | Radmir — [`@rxritet`](https://github.com/rxritet) | Dimash — [`@BDaaac`](https://github.com/BDaaac) |
-|:---:|:---|:---|
-| **Роль** | Go Developer · Full-Stack | Python Developer · Data Science · Backend |
-| **Стек** | REST APIs, React, UI/UX, Mobile | ML/Analytics, FastAPI, DevOps, Docker |
-| **Связь** | [LinkedIn](https://www.linkedin.com/in/radmir-abraev-186b393b0/) · [Email](mailto:abraevradmir2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dimashbekeshev/) · [Telegram](https://t.me/BDaaac) |
+Название отсылает к манхве **"Omniscient Reader's Viewpoint"** — истории про человека, который знал финал, но всё равно прошёл путь до конца. Мы разделяем этот подход: понимать цель, но не срезать углы.
+
+</div>
 
 ---
 
-## 🔨 Что мы строим
+## Команда
 
-Мы фокусируемся на разработке масштабируемых веб-сервисов и инструментов:
-
-- **Веб-платформы** — Full-stack приложения с микросервисной архитектурой
-- **API сервисы** — Высоконагруженные REST API на Go и FastAPI
-- **Data Engineering** — Пайплайны обработки данных и ML-модели
-- **Инфраструктура** — Контейнеризация (Docker) и CI/CD процессы
-
----
-
-## 🚀 Текущий флагманский проект
-
-### [📘 Wn-lab](https://github.com/ORV-lab/wn-lab)
-**Платформа для мультиязычного перевода веб-новелл.**
-
-Амбициозный проект, призванный упростить доступ к литературе на разных языках.
-- **Цель:** Создать удобный инструмент для сообщества переводчиков и читателей.
-- **Архитектура:** Сочетание производительности Go/FastAPI с интерактивностью React.
-- **Статус:** 🚧 В активной разработке (Design & Architecture phase).
-
----
-
-## 🛠️ Технологический стек
-
-### Языки
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Go](https://img.shields.io/badge/Go_REST_API-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Data & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-### Инфраструктура
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rxritet">
+        <img src="https://github.com/rxritet.png" width="100px" alt="rxritet"/><br/>
+        <sub><b>Radmir · rxritet</b></sub>
+      </a><br/>
+      <sub>Go Developer · Full-Stack · UI/UX</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BDaaac">
+        <img src="https://github.com/BDaaac.png" width="100px" alt="BDaaac"/><br/>
+        <sub><b>Dimash · BDaaac</b></sub>
+      </a><br/>
+      <sub>Python · Data Science · Backend · DevOps</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🗺️ Roadmap 2026
+## Технологический стек
 
-- [ ] **Q1-Q2:** Проектирование архитектуры и UI/UX для Wn-lab
-- [ ] **Q3:** Запуск MVP (Backend API + Базовый Frontend)
-- [ ] **Q4:** Интеграция ML-инструментов для помощи в переводе
-- [ ] **Goal:** Получение первого опыта коммерческой разработки и офферов (Junior Developer roles) 🚀
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,python,ts,js,sql" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,figma" />
+<img src="https://skillicons.dev/icons?i=fastapi,django" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,nginx,git,linux" />
+
+</div>
 
 ---
 
-## 📬 Контакты
+<div align="justify">
 
-Открыты к сотрудничеству, код-ревью и обмену опытом.
+## Наши принципы
 
-[![rxritet](https://img.shields.io/badge/Radmir-rxritet-181717?style=for-the-badge&logo=github)](https://github.com/rxritet)
-[![BDaaac](https://img.shields.io/badge/Dimash-BDaaac-181717?style=for-the-badge&logo=github)](https://github.com/BDaaac)
+- **Продукт, не код:** Каждый репозиторий — это решение реальной задачи, а не упражнение ради галочки
+- **Code Review как стандарт:** Ни один коммит не идёт в main без ревью второго участника — так мы растём быстрее
+- **Разные стеки — одна команда:** Go и Python не конкурируют, а дополняют друг друга в единой архитектуре
+- **Публичность:** Прогресс открыт — для сообщества, для будущих работодателей, для себя
 
-<br/>
+</div>
 
-<sub>Based in Almaty, Kazakhstan 🇰🇿 · Founded February 2026</sub>
+---
+
+<div align="justify">
+
+## Текущий фокус
+
+Сейчас вся энергия сосредоточена на одном флагманском проекте:
+
+**[📘 Wn-lab](https://github.com/ORV-lab/wn-lab)** — платформа для мультиязычного перевода веб-новелл.  
+Цель проекта — создать удобный инструмент для переводчиков и читателей: загрузка глав, управление текстами, поддержка нескольких языков в едином интерфейсе.  
+Архитектура строится на производительном Go/FastAPI бэкенде и интерактивном React-фронтенде с PostgreSQL в основе хранилища.
+
+**Статус:** 🚧 Проектирование архитектуры и UI/UX
+
+</div>
+
+---
+
+## Roadmap 2026
+
+- [ ] Проектирование архитектуры и Figma-прототип Wn-lab
+- [ ] MVP: API + базовый фронтенд + авторизация
+- [ ] Деплой: Docker + Nginx + CI/CD пайплайн
+- [ ] Публичный релиз и первые пользователи
+- [ ] Первые офферы на Junior Developer позиции 🚀
+
+---
+
+<div align="center">
+
+**Мы знаем, куда идём — и намерены пройти весь путь.**
+
+[![rxritet](https://img.shields.io/badge/Radmir-rxritet-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rxritet)
+[![BDaaac](https://img.shields.io/badge/Dimash-BDaaac-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BDaaac)
+
+<sub>Almaty, Kazakhstan 🇰🇿 · Founded February 2026</sub>
+
+</div>
