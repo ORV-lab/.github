@@ -6,7 +6,7 @@
 
 ### Open Research & Ventures Lab
 
-*Two developers — one lab. We build full-stack web apps, data pipelines, and APIs from scratch.*
+*Два разработчика — одна лаборатория. Создаем Full-Stack решения и развиваем инженерную культуру.*
 
 [![Members](https://img.shields.io/badge/Members-2-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ORV-lab)
 [![Location](https://img.shields.io/badge/Almaty%2C%20KZ-🇰🇿-red?style=for-the-badge)](https://github.com/ORV-lab)
@@ -16,29 +16,46 @@
 
 ---
 
-## 👥 Team
+## 👥 О нас
+
+Мы студенты второго курса технического университета (Алматы, Казахстан), объединившие усилия для создания качественного программного обеспечения. Наша цель — трансформировать академические знания в работающие продукты, совершенствуя навыки командной разработки (Git flow, Code Review) и архитектурного проектирования.
+
+Специализируемся на разных стеках (Go/React и Python/Data Science), что позволяет нам закрывать полный цикл разработки: от сложного бэкенда и анализа данных до современного фронтенда и мобильных приложений.
 
 | | Radmir — [`@rxritet`](https://github.com/rxritet) | Dimash — [`@BDaaac`](https://github.com/BDaaac) |
 |:---:|:---|:---|
-| **Role** | Go Developer · Full-Stack | Python Developer · Data Science · Backend |
-| **Focus** | REST APIs, React, UI/UX, Mobile | ML/Analytics, FastAPI, DevOps, Docker |
-| **Links** | [LinkedIn](https://www.linkedin.com/in/radmir-abraev-186b393b0/) · [Email](mailto:abraevradmir2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dimashbekeshev/) · [Telegram](https://t.me/BDaaac) |
+| **Роль** | Go Developer · Full-Stack | Python Developer · Data Science · Backend |
+| **Стек** | REST APIs, React, UI/UX, Mobile | ML/Analytics, FastAPI, DevOps, Docker |
+| **Связь** | [LinkedIn](https://www.linkedin.com/in/radmir-abraev-186b393b0/) · [Email](mailto:abraevradmir2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dimashbekeshev/) · [Telegram](https://t.me/BDaaac) |
 
 ---
 
-## 🔨 What We Build
+## 🔨 Что мы строим
 
-- **Backend APIs** — REST services in Go and FastAPI, production-ready with PostgreSQL
-- **Full-stack web** — React + TypeScript frontend wired to Go/Django/FastAPI backends
-- **Data & ML** — Analytics dashboards, scikit-learn models, XGBoost pipelines
-- **Infrastructure** — Docker Compose, Nginx, Linux deployments
-- **Mobile** *(in progress)* — Flutter cross-platform apps
+Мы фокусируемся на разработке масштабируемых веб-сервисов и инструментов:
+
+- **Веб-платформы** — Full-stack приложения с микросервисной архитектурой
+- **API сервисы** — Высоконагруженные REST API на Go и FastAPI
+- **Data Engineering** — Пайплайны обработки данных и ML-модели
+- **Инфраструктура** — Контейнеризация (Docker) и CI/CD процессы
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Текущий флагманский проект
 
-### Languages
+### [📘 Wn-lab](https://github.com/ORV-lab/wn-lab)
+**Платформа для мультиязычного перевода веб-новелл.**
+
+Амбициозный проект, призванный упростить доступ к литературе на разных языках.
+- **Цель:** Создать удобный инструмент для сообщества переводчиков и читателей.
+- **Архитектура:** Сочетание производительности Go/FastAPI с интерактивностью React.
+- **Статус:** 🚧 В активной разработке (Design & Architecture phase).
+
+---
+
+## 🛠️ Технологический стек
+
+### Языки
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -60,46 +77,27 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### DevOps & Tools
+### Инфраструктура
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📦 Projects
-
-| Repository | Description | Stack |
-|---|---|---|
-| [wn-lab](https://github.com/ORV-lab/wn-lab) | Shared workspace for experiments and utilities | Go · Python |
-
-> More projects coming. Watch the org to stay updated.
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
 ## 🗺️ Roadmap 2026
 
-- [ ] First full-stack app — Go backend + React + PostgreSQL
-- [ ] ML pipeline with interactive Plotly dashboard
-- [ ] Production deployment: Docker + Nginx + CI/CD
-- [ ] First cross-platform mobile app (Flutter)
-- [ ] Both members land first developer roles 🚀
+- [ ] **Q1-Q2:** Проектирование архитектуры и UI/UX для Wn-lab
+- [ ] **Q3:** Запуск MVP (Backend API + Базовый Frontend)
+- [ ] **Q4:** Интеграция ML-инструментов для помощи в переводе
+- [ ] **Goal:** Получение первого опыта коммерческой разработки и офферов (Junior Developer roles) 🚀
 
 ---
 
-## 📬 Contact
+## 📬 Контакты
 
-We're open to collaboration, feedback, and interesting projects.
+Открыты к сотрудничеству, код-ревью и обмену опытом.
 
 [![rxritet](https://img.shields.io/badge/Radmir-rxritet-181717?style=for-the-badge&logo=github)](https://github.com/rxritet)
 [![BDaaac](https://img.shields.io/badge/Dimash-BDaaac-181717?style=for-the-badge&logo=github)](https://github.com/BDaaac)
