@@ -51,8 +51,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,sql" />
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,figma" />
+<img src="https://skillicons.dev/icons?i=python,ts,js" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css" />
 <img src="https://skillicons.dev/icons?i=fastapi,django" />
 <img src="https://skillicons.dev/icons?i=postgres,docker,nginx,git,linux" />
 
